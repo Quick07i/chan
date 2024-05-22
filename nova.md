@@ -1,1 +1,2 @@
-"# chan" 
+let a ="hello"
+console.lod(a);
